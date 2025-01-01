@@ -1,4 +1,4 @@
-# # Minesweeper
+# Minesweeper
 A classic Minesweeper game built in Java. Use logic to uncover tiles and avoid hidden mines.
 
 # How to Play:
